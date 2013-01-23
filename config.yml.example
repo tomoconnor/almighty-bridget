@@ -1,0 +1,9 @@
+pagerduty_key: ffffffffffffffffffff
+campfire_key: 0000000000000000000000000000000000000000
+campfire_room: 666666
+campfire_subdomain: example_domain
+pagerduty_service: Bridget
+pagerduty_subdomain: examaple_domain
+pagerduty_user: testuser@example.org
+pagerduty_password: ***********
+

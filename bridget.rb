@@ -2,7 +2,7 @@
 #Connects Pagerduty alerts to Campfire
 require "tinder"
 require "redphone/pagerduty"
-require "YAML"
+require "yaml"
 
 def humanize secs
   [[60, :seconds], [60, :minutes], [24, :hours], [1000, :days]].map{ |count, name|
